@@ -22,7 +22,7 @@
 10) Write a shell script gencsv to generate csv content and write it to inputFile file:
   #!/bin/bash
   for i in {0..9}
-   do
+  do
   echo "$i,$RANDOM" >> inputFile
   done
 11) Run the cotainer by mouting the inputfile path:
