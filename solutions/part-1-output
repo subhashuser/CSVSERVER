@@ -1,0 +1,10 @@
+--2022-05-17 04:03:32--  http://3.109.158.56:9393/raw
+Connecting to 3.109.158.56:9393... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 163 [text/plain]
+Saving to: ‘raw’
+
+     0K                                                       100% 25.9M=0s
+
+2022-05-17 04:03:32 (25.9 MB/s) - ‘raw’ saved [163/163]
+
